@@ -1,0 +1,26 @@
+body {
+  max-width: 720px;
+  padding-top: 50px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#progress {
+  width: 100%;
+  background-color: grey;
+}
+
+#bar {
+  width: 0%;
+  background-color: blue;
+  height: 25px;
+}
+
+#question {
+  font-family: Sans-Serif;
+}
+
+#finalScore {
+  font-family: Sans-Serif;
+}
